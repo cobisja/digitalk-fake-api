@@ -1,0 +1,74 @@
+{
+  "keywords": [
+    {
+      "Id": 6,
+      "Name": "CreditAmounts",
+      "Values": [
+        "10.00",
+        "20.00",
+        "30.00",
+        "50.00",
+        "100.00"
+      ]
+    }
+  ],
+  "summaries": {
+    "ItemCount": 1,
+    "Items": [
+      {
+        "Account": "10000096",
+        "Balance": 70.48,
+        "ChargePolicyId": "0dfc0555-79a6-4acf-a525-f0cdce2c0caa",
+        "Currency": "CHF",
+        "Id": 117,
+        "IsPostpaid": false,
+        "Name": "Prénom Nom",
+        "PostPaidCreditLimit": 0,
+        "ProductId": null,
+        "RegistrationDate": "/Date(1499258121000+0200)/",
+        "State": 1,
+        "Subscriptions": [
+          {
+            "Language": "FR",
+            "Name": "MUCHO PLUS",
+            "ServiceId": 2,
+            "ServiceType": 2
+          }
+        ]
+      }
+    ],
+    "Page": 1,
+    "PageCount": 1,
+    "PageSize": 1
+  },
+  "summary": {
+    "Id": 6191,
+    "Account": "10006207",
+    "Name": "Beeone Test",
+    "State": 1,
+    "IsPostpaid": false,
+    "Currency": "CHF",
+    "Balance": 12,
+    "PostPaidCreditLimit": 0,
+    "RegistrationDate": "/Date(1524556200000+0200)/",
+    "Subscriptions": [
+      {
+        "ServiceId": 2,
+        "ServiceType": 2,
+        "Name": "MUCHO PLUS",
+        "Language": "EN"
+      }
+    ],
+    "ProductId": null,
+    "ChargePolicyId": "0dfc0555-79a6-4acf-a525-f0cdce2c0caa"
+  },
+  "credit": {
+    "Channel": 4,
+    "Amount": 10,
+    "AdjustmentReason": "Bake250_webshop",
+    "Reference": "B250_00000000001",
+    "PaymentMethod": "PINless",
+    "RechargeType": 45,
+    "AuditID": 1
+  }
+}

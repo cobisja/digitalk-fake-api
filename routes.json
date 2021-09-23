@@ -1,0 +1,6 @@
+{
+  "/api/configuration/keywords/:id": "/keywords?Id=:id",
+  "/api/suscribers/summariescli=4177xxxxxxx&page=1&pagesize=1": "/summaries",
+  "/api/subscribers/:id/summary": "/summary?Id=:id",
+  "/api/subscribers/:id/payments/credit": "/credit"
+}
